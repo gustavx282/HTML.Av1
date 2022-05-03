@@ -30,13 +30,18 @@ main h1 {
     margin-bottom: 3rem;
 }
 
+main h4{
+    color: #8880FE;
+    margin-top: 2rem;
+}
+
 main.social-media{
     display: flex;
     align-content: center;
 }
 
 main .social-media a {
-    text-decoration-style: none;
+    color: rgb(8, 8, 73);
 }
 
 main .social-media img{
